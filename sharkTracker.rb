@@ -1,4 +1,4 @@
-# Script written by Raviteja Bhavirisetty
+# Raviteja Bhavirisetty
 # Date 05/02/2014
 
 require 'rubygems'
